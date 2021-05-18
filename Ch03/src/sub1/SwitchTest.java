@@ -1,12 +1,11 @@
 package sub1;
-
-import java.util.Scanner;
-
 /*
  * 날짜 : 2021/05/18
  * 이름 : 김동현
- * 내용 : 조건문 switch 
+ * 내용 : 조건문 switch
  */
+import java.util.Scanner;
+
 public class SwitchTest {
 	// switch(변수) {
 	//	case 값1:

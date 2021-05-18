@@ -1,5 +1,9 @@
 package sub2;
-
+/*
+ * 날짜 : 2021/05/18
+ * 이름 : 김동현
+ * 내용 : 반복문 for
+ */
 public class ForTest {
 
 	public static void main(String[] args) {
