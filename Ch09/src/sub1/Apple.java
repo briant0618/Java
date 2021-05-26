@@ -15,13 +15,10 @@ public class Apple { // extends Object가 생략되어있음.
 		this.price = price;
 	}
 	
-	public void show() {
-		System.out.println("사과 원산지 : " + country);
-		System.out.println("사과 가격 : " + price);
-	}	
-	
 	@Override
 	public String toString() {
-		return super.toString(); 
+		System.out.println("사과 원산지 : "+country);
+		System.out.println("사과 가격 : "+price);
+		return super.toString();
 	}
 }
